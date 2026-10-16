@@ -20,7 +20,7 @@ O jogador terá acesso a um personagem 3D que poderá ser personalizado por meio
 
 **Público-alvo**
 
-O jogo é direcionado a adolescentes e adultos que gostam de anime, moda, personalização de personagens e cozy games. 
+O jogo é direcionado a adolescentes e adultos que gostam de moda, personalização de personagens e cozy games. 
 
 **Estilo visual e direção de arte**
 
