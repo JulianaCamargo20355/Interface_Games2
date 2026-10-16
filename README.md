@@ -29,3 +29,6 @@ A direção de arte combinará formas suaves, cores harmoniosas e iluminação d
 
 A interface seguirá uma identidade visual fofa e moderna, com painéis organizados, ícones delicados e elementos gráficos inspirados em estrelas, corações e brilhos, sem comprometer a legibilidade.
 
+
+<img width="1920" height="1080" alt="Fluxo de Telas" src="https://github.com/user-attachments/assets/dcdd5364-3363-40a2-9ce5-435482040f32" />
+
